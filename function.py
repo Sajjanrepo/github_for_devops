@@ -4,6 +4,6 @@ def add():
     sum = 0
     for num in list1:
         sum = sum + num
-    return sum
+    return d
 
 print("The sum of numbers in list : ",add())

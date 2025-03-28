@@ -1,3 +1,9 @@
+"""
+This module provides functionality for addition.
+
+"""
+
+
 def add():
     """This is demo"""
     print("This is sum function")
